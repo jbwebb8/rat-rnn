@@ -62,4 +62,14 @@ ExportedObj/
 *.eggs*
 *.gitignore.swp
 
+# Linux hidden files
+.ipynb_checkpoints/*
+
 .DS_Store
+
+# data
+data/*
+
+# Other Unity files
+Library/*
+UnityPackageManager/*
