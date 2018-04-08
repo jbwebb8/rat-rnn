@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/square.unity
+    guid: dcfd5d825a9a54b29b0177fe984a00b5
+  m_configObjects: {}
