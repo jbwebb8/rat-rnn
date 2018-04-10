@@ -69,6 +69,7 @@ ExportedObj/
 
 # data
 data/*
+*_Data/*
 
 # Other Unity files
 Library/*
